@@ -74,3 +74,9 @@ img {
   display: flex;
   gap: 150px;
 }
+.btn
+{
+  position:fixed;
+  bottom:0px;
+  left:0px;
+}
